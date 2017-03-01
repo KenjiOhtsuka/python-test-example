@@ -2,4 +2,9 @@
 
 python3 setup.py build_ext --inplace
 
-import test
+## Execution
+
+```
+python3  
+>> import test
+```
